@@ -26,7 +26,8 @@ The goal was to uncover insights into purchasing behavior and highlight growth o
 - `README.md` → Project documentation
 
 ![baby-care-products-market](https://github.com/user-attachments/assets/da56198a-957f-4296-b819-db5433424fc5)
-<img width="508" height="409" alt="Screenshot 2026-03-21 230417" src="https://github.com/user-attachments/assets/19a6e29d-5679-40e2-8037-598ebfc73d0f" />
+<img width="756" height="484" alt="Screenshot 2026-03-21 230435" src="https://github.com/user-attachments/assets/1f8f0fe4-f9e7-4448-9084-b2f90ec04315" />
+
 
 ## 👩‍💻 About Me
 
